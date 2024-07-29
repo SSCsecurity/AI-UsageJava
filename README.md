@@ -1,2 +1,2 @@
-# redesigned-carnival
+# AI-UsageJava
 AI Calls Java
