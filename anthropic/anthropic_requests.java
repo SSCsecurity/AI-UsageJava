@@ -54,7 +54,7 @@ public class RestApiCallFive {
 
         Request request = new Request.Builder()
             .get()
-            .url("https://api.anthropic.com/v1/complete?email=testAI@ssc.com")
+            .url("https://api.anthropic.com/v1/complete?email=AIconnect@ssc.com")
             .build();
     }
 }
